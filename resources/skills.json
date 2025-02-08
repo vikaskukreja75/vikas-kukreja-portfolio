@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Java",
+        "icon": "./images/skills/java.png"
+    },
+    {
+        "name": "Python",
+        "icon": "./images/skills/python.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "./images/skills/mysql.png"
+    },
+    {
+        "name": "MSSQL",
+        "icon": "./images/skills/mssql.png"
+    },
+    {
+        "name": "Aerospike",
+        "icon": "./images/skills/aerospike.png"
+    },
+    {
+        "name": "Apache Kafka",
+        "icon": "./images/skills/kafka.png"
+    },
+    {
+        "name": "Redis",
+        "icon": "./images/skills/redis.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "./images/skills/linux.png"
+    },
+    {
+        "name": "WSL",
+        "icon": "./images/skills/ubuntu.png"
+    },
+    {
+        "name": "Intellij",
+        "icon": "./images/skills/intellij.png"
+    },
+    {
+        "name": "Git",
+        "icon": "./images/skills/git.png"
+    },
+    {
+        "name": "PowerBI",
+        "icon": "./images/skills/powerbi.png"
+    }
+]
